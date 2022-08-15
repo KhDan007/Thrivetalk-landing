@@ -1,0 +1,53 @@
+// FONT Larsseit
+// Regular
+@font-face {
+  font-family: 'Larsseit';
+  src: url('/fonts/Larsseit.eot');
+  src: url('/fonts/Larsseit.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/Larsseit.woff2') format('woff2'),
+      url('/fonts/Larsseit.woff') format('woff'),
+      url('/fonts/Larsseit.ttf') format('truetype'),
+      url('/fonts/Larsseit.svg#Larsseit') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+// Bold
+@font-face {
+  font-family: 'Larsseit';
+  src: url('/fonts/Larsseit-Bold.eot');
+  src: url('/fonts/Larsseit-Bold.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/Larsseit-Bold.woff2') format('woff2'),
+      url('/fonts/Larsseit-Bold.woff') format('woff'),
+      url('/fonts/Larsseit-Bold.ttf') format('truetype'),
+      url('/fonts/Larsseit-Bold.svg#Larsseit-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+// Light
+@font-face {
+  font-family: 'Larsseit';
+  src: url('/fonts/Larsseit-Light.eot');
+  src: url('/fonts/Larsseit-Light.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/Larsseit-Light.woff2') format('woff2'),
+      url('/fonts/Larsseit-Light.woff') format('woff'),
+      url('/fonts/Larsseit-Light.ttf') format('truetype'),
+      url('/fonts/Larsseit-Light.svg#Larsseit-Light') format('svg');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+// Medium
+@font-face {
+  font-family: 'Larsseit';
+  src: url('/fonts/Larsseit-Medium.eot');
+  src: url('/fonts/Larsseit-Medium.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/Larsseit-Medium.woff2') format('woff2'),
+      url('/fonts/Larsseit-Medium.woff') format('woff'),
+      url('/fonts/Larsseit-Medium.ttf') format('truetype'),
+      url('/fonts/Larsseit-Medium.svg#Larsseit-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
